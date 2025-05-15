@@ -16,7 +16,7 @@ Home Assistant add-on with disabled Protection mode.
 
 4. Change folder
 ```bash
-  cd /data/.local/share/deCONZ/devices/`
+  cd /data/.local/share/deCONZ/devices/
 ```
 5. Download DDF file or copy/past content of the DDF file.
 
